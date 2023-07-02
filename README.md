@@ -7,16 +7,6 @@
  * @FilePath: \SASRec.pytorch-master\README.md
 -->
 
-
-# Commands
-
-```python main.py --dataset=jdata --train_dir=default --maxlen=200 --dropout_rate=0.2 --device=cuda --lr=0.0003```
-
-```python main1.py --dataset=ml-1m --train_dir=default --maxlen=200 --dropout_rate=0.2 --device=cuda --lr=0.0003```
-
-
-
-
 # Reference
 ```
 @article{DBLP:journals/kbs/XuZPWYDZW23,
@@ -41,3 +31,12 @@
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+# Commands
+
+```python main.py --dataset=jdata --train_dir=default --maxlen=200 --dropout_rate=0.2 --device=cuda --lr=0.0003```
+
+```python main1.py --dataset=ml-1m --train_dir=default --maxlen=200 --dropout_rate=0.2 --device=cuda --lr=0.0003```
+
+
+
+
