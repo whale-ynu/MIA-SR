@@ -8,7 +8,7 @@
 -->
 
 
-
+# Commands
 
 ```python main.py --dataset=jdata --train_dir=default --maxlen=200 --dropout_rate=0.2 --device=cuda --lr=0.0003```
 
@@ -17,7 +17,8 @@
 
 
 
-### Reference ###
+# Reference
+```
 @article{DBLP:journals/kbs/XuZPWYDZW23,
   author       = {Li Xu and
                   Jun Zeng and
@@ -39,3 +40,4 @@
   biburl       = {https://dblp.org/rec/journals/kbs/XuZPWYDZW23.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+```
